@@ -5,7 +5,9 @@ The Greenden website is designed as a platform to promote sustainable living and
 # View Pages
 
 Home page : The Home Page serves as the gateway to Greenden, showcasing best sellers, reviews and a letter.
+
 Product Page : The Product Page showcases eco-friendly products offered by Greenden.
+
 Contact Page : The Contact Page ensures seamless communication between users and the Greenden team.
 
 # Features
